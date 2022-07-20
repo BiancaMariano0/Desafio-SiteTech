@@ -1,0 +1,17 @@
+/*Logo Navebar*/
+#logo{ 
+   margin-left: 111px;
+   margin-top: 26px;
+   float: left;
+}
+#opt{
+    float: left;
+    font-size: 18px;;
+    margin-left: 5px;
+    margin-top: 33px;
+}
+/*Navebar*/
+#navbar{
+    background-color: aquamarine;
+}
+
